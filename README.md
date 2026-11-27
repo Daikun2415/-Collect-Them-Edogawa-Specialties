@@ -1,1 +1,13 @@
-# -Collect-Them-Edogawa-Specialties
+# あつめろ！えどがわ名産品
+あつめろ！えどがわ名産品のプロジェクトファイルになります。　Unityバージョン：6000.0.40f1
+
+## ゲームプレイはこちらから
+https://unityroom.com/games/edogawameisanhin
+
+## 操作方法
+A,D(もしくは←,→矢印キー)：左右移動、スペースキー：ジャンプ
+
+## プロジェクトフォルダについて
+unityプロジェクトフォルダを開いていただいて、Aseetsファイル内の「User_Daigo」が私の担当部分です。
+
+ゲームを起動する際は、「Scenes」フォルダにある「Main_Title」を開いてから起動してください。
